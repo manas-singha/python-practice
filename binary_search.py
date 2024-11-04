@@ -14,7 +14,7 @@ def binary_search(arr,target):
     return -1       
 
 
-arr=[10,23,35,45,50,70,85]
-target=35
+arr=[45,23,35,1,50,24,85]
+target=23
 result=binary_search(arr,target)
 print(result)
